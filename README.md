@@ -9,7 +9,8 @@ In this version, the computer displays a set of cards Rock, Paper, or Scissors f
 * **Memory-Based Mechanics:** Cards are visible for a short duration (10-14 seconds) before being hidden.
 * **Real-time Scoring:** Accurate tracking of player and computer progress.
 * **Console-Optimized UI:** Uses Console.SetCursorPosition and System.Threading to provide a smooth, flicker-free countdown timer.
-* **Dynamic Difficulty Scaling:** | Level | Cards | Time Limit | Win Score |
+* **Dynamic Difficulty Scaling:**
+    | Level | Cards | Time Limit | Win Score |
     | :--- | :--- | :--- | :--- |
     | **Beginner** | 7 | 14 Seconds | 4 Points |
     | **Intermediate** | 10 | 12 Seconds | 5 Points |
