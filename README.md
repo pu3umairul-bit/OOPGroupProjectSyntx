@@ -3,7 +3,7 @@
 **Syntx Rock Paper Scissors Memory Game** is a C#-based console application that breathes new life into the classic Rock-Paper-Scissors game. Combining the rules of the traditional hand game with the challenge of memory cards, players must rely on their memory skills rather than just luck to beat the computer.
 
 ## 🎮 Game Overview
-In this version, the computer displays a set of cards Rock, Paper, or Scissors for a limited time depending on the difficulty level. Once the cards are flipped, the computer selects its move. To win the round, you must recall the position of the card that counters the computer's choice.
+In this version, the computer displays a set of cards Rock, Paper or Scissors for a limited time depending on the difficulty level. Once the cards are flipped, the computer selects its move. To win the round, you must recall the position of the card that counters the computer's choice.
 
 ### Key Features:
 * **Memory-Based Mechanics:** Cards are visible for a short duration (10-14 seconds) before being hidden.
