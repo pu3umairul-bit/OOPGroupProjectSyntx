@@ -31,9 +31,9 @@ The system is built on **Object-Oriented Programming** principles to ensure modu
 | Timer | Enforces constraints | Calculates timeLeft using DateTime. |
 | ScoreTracker | Validates win conditions | Checks if scores meet the requirements. |
 
-* Encapsulation: Private fields in classes like Player1, Level and Timer are protected from external interference, using getter methods for data retrieval. These fields are accessed through public properties or methods, ensuring better data security and preventing unintended modifications.
-* Inheritance: Implemented through the Player class hierarchy. A base Player class is created to store common attributes such as name and score. The HumanPlayer and ComputerPlayer classes inherit from this base class and extend its functionality, reducing code duplication and improving maintainability.
-* Polymorpism: Achieved by defining a common method (e.g., MakeMove()) in the base Player class and allowing derived classes to provide their own implementations. This enables the program to treat all player types uniformly while executing different behaviors for human and computer players.
+* **Encapsulation:** Private fields in classes like Player1, Level and Timer are protected from external interference, using getter methods for data retrieval. These fields are accessed through public properties or methods, ensuring better data security and preventing unintended modifications.
+* **Inheritance:** Implemented through the Player class hierarchy. A base Player class is created to store common attributes such as name and score. The HumanPlayer and ComputerPlayer classes inherit from this base class and extend its functionality, reducing code duplication and improving maintainability.
+* **Polymorpism:** Achieved by defining a common method (e.g., MakeMove()) in the base Player class and allowing derived classes to provide their own implementations. This enables the program to treat all player types uniformly while executing different behaviors for human and computer players.
 
 ---
 
