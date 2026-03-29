@@ -31,29 +31,21 @@ The system is built on **Object-Oriented Programming** principles to ensure modu
 | Timer | Enforces constraints | Calculates timeLeft using DateTime. |
 | ScoreTracker | Validates win conditions | Checks if scores meet the requirements. |
 
-* Encapsulation: Private fields in classes like Player1, Level, and Timer are protected from external interference, using getter methods for data retrieval.
+* Encapsulation: Private fields in classes like Player1, Level and Timer are protected from external interference, using getter methods for data retrieval.
 
 ---
 
 ## 🕹️ How to Play
 1.  **Select Difficulty:** Choose your challenge level from the main menu.
-2.  **Memorize:** Look at the number of cards. You have a few seconds to memorize where the Rock, Paper, and Scissors icons are located.
+2.  **Memorize:** Look at the number of cards. You have a few seconds to memorize where the Rock, Paper and Scissors icons are located.
 3.  **The Process:** The computer will announce its move like "Computer choose: Rock".
 4.  **Recall:** Type the number of the card that beats the computer (e.g., 1 2 3).
 5.  **Win?Lose:** Reach the required points for your level to be declared the champion!
 
 ---
 
-## 💻 Development Journey
-This project followed a structured Software Development Life Cycle (SDLC):
-* **UML Design:** March 14, 2026
-* **Coding Phase:** March 19, 2026
-* **Testing & QA** March 22–29, 2026
-
----
-
 ## 🚀 Future Enhancements
-* **GUI Transition:** Moving from a console-based interface to a graphical one (WPF or Unity).
+* **GUI Transition:** Moving from a console-based interface to a graphical.
 * **Power-ups:** Adding special cards that reveal hints or freeze the timer.
 * **Multiplayer Mode:** Allowing two players to compete in a memory-off.
 
