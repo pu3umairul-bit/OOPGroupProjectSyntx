@@ -60,11 +60,11 @@ This project followed a structured Software Development Life Cycle (SDLC):
 ---
 
 ## 👤 Author
-**Sashmita A/P Arulthevan
-**Nurul Aqilah Binti Mat Yusof
-**Nur Irdina Umairah Binti Ahmad Hafiz
-**Nur Fathiah Wajihah Binti Kamaruddin
-**Putri Umairul Zahra Binti Mohamad Rafi
-**Liang Haojia
-**Muhammad Naeem Aiman Bin Mohd Nasir
-**Allayar Bekiyev Ahmedovich
+*Sashmita A/P Arulthevan
+*Nurul Aqilah Binti Mat Yusof
+*Nur Irdina Umairah Binti Ahmad Hafiz
+*Nur Fathiah Wajihah Binti Kamaruddin
+*Putri Umairul Zahra Binti Mohamad Rafi
+*Liang Haojia
+*Muhammad Naeem Aiman Bin Mohd Nasir
+*Allayar Bekiyev Ahmedovich
